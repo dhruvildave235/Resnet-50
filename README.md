@@ -85,7 +85,7 @@ Remote sensing image classification
 Privacy-aware satellite image analysis
 Distributed AI training environments
 
-## ✍️ Created By
+## ✍️ Created By Dhruvil_Dave
 
-Created by Dhruvil_Dave
 AI & Machine Learning Enthusiast | Software Developer | Research-Oriented Innovator
+
