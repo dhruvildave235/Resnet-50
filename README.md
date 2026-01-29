@@ -71,13 +71,6 @@ python client2.py
      >   F1-score
      >   Confusion Matrix
 
-## 🎯 Key Features
-
-Privacy-preserving training using Federated Learning
-Transfer learning with DenseNet121
-Client-wise independent datasets
-Centralized aggregation without data sharing
-Scalable to multiple clients
 
 ## 📌 Use Case
 
@@ -88,4 +81,5 @@ Distributed AI training environments
 ## ✍️ Created By Dhruvil_Dave
 
 AI & Machine Learning Enthusiast | Software Developer | Research-Oriented Innovator
+
 
