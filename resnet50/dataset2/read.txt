@@ -1,0 +1,1 @@
+PUT Euro (EuroSAT) dataset with 10 classes 
