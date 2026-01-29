@@ -45,34 +45,6 @@ Each client uses its own local dataset:
 
 ---
 
-## 📁 Project Structure
-
-├── server.py
-├── client1.py
-├── client2.py
-├── dataset1/
-│ ├── class_1/
-│ ├── class_2/
-│ └── ...
-├── dataset2/
-│ ├── class_1/
-│ ├── class_2/
-│ └── ...
-├── client1/
-│ ├── final_model.h5
-│ ├── training_metrics.csv
-│ ├── accuracy_curve.png
-│ └── loss_curve.png
-├── client2/
-│ ├── final_model.h5
-│ ├── training_metrics.csv
-│ ├── accuracy_curve.png
-│ └── loss_curve.png
-└── README.md
-
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Start the Federated Server
@@ -113,6 +85,7 @@ Remote sensing image classification
 Privacy-aware satellite image analysis
 Distributed AI training environments
 
+## ✍️ Created By
 
-## Dhruvil Dave
+Created by Dhruvil_Dave
 AI & Machine Learning Enthusiast | Software Developer | Research-Oriented Innovator
