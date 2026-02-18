@@ -23,7 +23,7 @@ Each client uses its own local dataset:
 
 ## 🧠 Model Architecture
 
-- **Base Model**: DenseNet121 (pre-trained on ImageNet)
+- **Base Model**: Resnet-50 (pre-trained on ImageNet)
 - **Custom Layers**:
   - Global Average Pooling
   - Dense (256, ReLU)
@@ -81,5 +81,6 @@ Distributed AI training environments
 ## ✍️ Created By Dhruvil_Dave
 
 AI & Machine Learning Enthusiast | Software Developer | Research-Oriented Innovator
+
 
 
